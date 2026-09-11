@@ -1,453 +1,399 @@
 # 中国与世界性别肯定医疗观念与技术变迁史纲
 
-*内容整理自互联网，客观追溯历史进程发展，其中可能含有触发GD的内容，若有不适请停止观看，在此感到抱歉*。
+> 内容整理自互联网，客观追溯历史进程发展，其中可能含有触发GD的内容，若有不适请停止观看
+
+---
 
 ## 1886
 
-理查德·冯·克拉夫特-埃宾编写《性心理病态》
+理查德·冯·克拉夫特-埃宾（Richard von Krafft-Ebing）出版《性心理病态》（Psychopathia Sexualis）。
 
-人类首部系统性性病理专著。首次将“性别身份与躯体不符、跨性别着装、性别转换欲望”归类为先天性性心理变态。区分了同性恋、异装、性别转换倾向。
+该书系统整理了性倒错、异装与同性欲望等案例，把性别身份与躯体不符的现象纳入精神病理学框架。
 
-奠定了近百年“跨性别=精神障碍”的医学基调，是病理化时代的起点。
+将性别不一致带入医学视野，也奠定近百年的病理化基调。[^1][^2]
 
 ## 1905
 
-西格蒙德·弗洛伊德在1905年提出性心理发展阶段理论，将性行为与性别表现差异解释为发展过程中的心理结构偏移，而非先天性别结构差异。
+西格蒙德·弗洛伊德（Sigmund Freud）在《性学三论》中提出性心理发展阶段理论，将性别与性欲表现解释为心理发展的一部分。
 
-该理论对20世纪上半叶精神分析学派影响深远。
+精神分析获得解释空间。[^1]
 
 ## 1910
 
-马格努斯·赫希菲尔德正式创造异装症（Transvestismus）术语，严格区分性取向与性别认同，提出著名的性别中间态理论。
+马格努斯·赫希菲尔德（Magnus Hirschfeld）在《异装者》（Die Transvestiten）中推广“异装症”（Transvestismus）一词，并将异装与同性恋、性别转换愿望区分讨论。
 
-## 1919
+性别认同与性取向开始分流，异装症进入疾病命名。[^2][^3]
 
-赫希菲尔德成立柏林性学研究所。
+## 1919.7
 
-内设门诊、手术室、实验室、档案室。是全球第一所性医学科研临床中心，首个系统开展性别肯定医疗、性别重置手术研究及内分泌干预探索的机构。
+马格努斯·赫希菲尔德在柏林创办性学研究所（Institut für Sexualwissenschaft）。研究所设门诊、实验室与档案部门，并接诊性与性别少数群体。
 
-## 1920–1930
-
-德国研究者开始尝试利用性腺提取物进行性别医学干预，并积累了最早的内分泌治疗与躯体变化观察资料。
+首次实现性别医学机构化。[^4]
 
 ## 1923
 
-艾伦和多伊西首次证明卵巢能够分泌一种化学物质控制女性生殖发育，生殖活动受内分泌调控。
+艾伦（Edgar Allen）与爱德华·阿德尔伯特·多伊西（Edward Adelbert Doisy）报告从卵巢中提取到一种可诱发雌性生殖道成熟变化的激素，为雌激素化学研究提供实验基础。
 
-奠定雌激素研究与生殖内分泌学的重要基础。
-
-## 1924
-
-国际言语病理学与语音科学协会成立。
-
-现代言语治疗学正式形成国际学术体系。
-
-为后来的跨性别语音训练奠定学科基础。
+性激素干预从腺体移植转向化学物质研究。[^5]
 
 ## 1929
 
-1929年前后，爱德华·阿德尔伯特·多伊西与阿道夫·布特南特团队分别独立完成雌酮（Estrone）的提纯。
+多伊西团队与阿道夫·布特南特（Adolf Butenandt）团队分别推进雌酮（Estrone）等性激素的提纯与结构研究；1930年前后，雌酮成为最早被较充分化学表征的性激素之一。
 
-历史上第一个被纯化的性激素。现代激素药物工业开始出现。
+性激素成为可命名、可测量、可制备的化学实体。[^6]
 
 ## 1930
 
-柏林性学研究所完成世界最早一批有文献记载的性别重置手术。
+丹麦画家莉莉·艾尔伯（Lili Elbe）在柏林与德累斯顿接受多阶段性别肯定手术。手术由埃尔温·格尔班特（Erwin Gohrbandt）与库尔特·瓦内克罗斯（Kurt Warnekros）等实施，赫希菲尔德参与了术前评估。
 
-莉莉·艾尔伯作为跨性别女性接受手术。手术由妇科医生路德维希·莱维·伦兹和外科医生埃尔文·格尔班特主刀，并由妇科医生库尔特·瓦内克罗斯等人完成后续关键手术。
+她接受子宫移植与阴道成形相关手术后因术后并发症于1931年9月13日去世。
 
-这是目前已知最早一批系统性、多阶段、医学监督下完成的性别重置手术流程之一。首次向医学界展示了通过激素与外科手段改变性别表征的可能性，成为现代跨性别医疗发展的重要里程碑。
-
-## 1931
-
-阿道夫·布特南特从男性尿液中提取出雄甾酮（Androsterone）。
-
-首次分离出男性雄激素。
-
-## 1933
-
-恩斯特·施文克与弗里茨·希尔德布兰特还原雌酮获得17β-雌二醇（Estradiol）。
+证明身体改变在技术上可行，也暴露早期手术的高风险。[^7][^8]
 
 ## 1933.5
 
-纳粹焚毁柏林性学研究所全部馆藏（数万份病历、手术记录、激素数据、全球唯一的性别医学资料库）被彻底销毁。
+纳粹在柏林焚毁性学研究所的藏书、病历与研究资料，赫希菲尔德流亡法国，1935年在尼斯去世。
 
-赫希菲尔德流亡海外，1935年逝世于法国尼斯。
+中断了早期性别医学的连续积累。[^9]
 
-## 1935.5
+## 1935
 
-阿姆斯特丹大学团队从100公斤公牛睾丸中提取出仅约10毫克纯晶体雄激素，命名为睾酮（Testosterone）。
+恩斯特·拉克尔（Ernst Laqueur）团队从公牛睾丸中分离出睾酮（Testosterone）。同年，阿道夫·布特南特与利奥波德·鲁日奇卡（Leopold Ružička）等完成睾酮的化学合成。
 
-## 1935.8
+布特南特与鲁日奇卡因甾体激素研究获1939年诺贝尔化学奖。
 
-阿道夫·布特南特、利奥波德·鲁日奇卡等首次合成睾酮（Testosterone）。
-
-同年，爱德华·阿德尔伯特·多伊西团队从约4吨猪卵巢中提取出数毫克纯化雌二醇，并确定其化学结构。
-
-*阿道夫·布特南特、利奥波德·鲁日奇卡获1939年诺贝尔化学奖。*
+为跨性别男性的激素治疗提供药物基础。[^10][^11]
 
 ## 1937
 
-睾酮丙酸酯（Testosterone Propionate）上市。
+丙酸睾酮（Testosterone Propionate）等注射用睾酮制剂进入临床，成为最早一批可商品化的雄激素药物。
 
-第一种商品化睾酮药物。现代跨性别男性激素治疗的药物祖先。
+长期雄激素治疗获得可用注射剂型。[^10]
 
-## 1938前后
+## 1941—1942
 
-雌二醇开始进入临床应用。
+共轭雌激素制剂（Premarin）进入临床，成为此后数十年跨性别女性激素治疗的重要药物来源之一。
 
-为之后的跨性别女性激素治疗提供可标准化药物来源。
+跨性别女性激素治疗获得较稳定的早期药物来源。[^12]
 
-## 1949
+## 1946
 
-内分泌学家哈里·本杰明开始系统研究跨性别患者，并逐渐形成以激素治疗与手术联合干预为核心的跨性别医学理论框架。
+英国整形外科医师哈罗德·吉利斯（Harold Gillies）为跨性别男性迈克尔·狄龙（Michael Dillon）实施阴茎成形术，属于已知较早的跨性别男性生殖器成形手术记录。
 
-## 1950s
+跨性别男性生殖器成形进入外科正史。[^13][^14]
 
-哈里·本杰明开始系统应用雌激素治疗跨性别女性。
+## 1948
 
-首次建立较长期、连续性的跨性别激素治疗实践。
+哈里·本杰明（Harry Benjamin）在旧金山接诊由阿尔弗雷德·金赛（Alfred Kinsey）转介的性别不一致患者，开始系统区分“异装”与“易性症”并探索激素与手术联合干预。
 
-证明激素治疗能够有效缓解性别焦虑并促进目标性别第二性征发育。
+奠定长期随访与激素手术并行的框架，也埋下守门制度。[^15][^16]
 
-被视为现代跨性别激素治疗（GAHT）的开端。
+## 1951.9—1952.12
 
-## 1952.11
+美国退伍军人克里斯汀·乔根森（Christine Jorgensen）在丹麦接受激素治疗与分阶段手术，1951年接受睾丸切除，1952年接受阴茎切除等手术。1952年12月，纽约《每日新闻》以头版报道其经历，使她成为全球知名的跨性别女性。
 
-美国退伍军人克里斯汀·乔根赴丹麦完成性别重置手术，被全美头版报道。「易性人」正式进入大众词典。
+性别肯定医疗进入全球公共视野。[^17][^18]
 
-首次让跨性别议题进入大众媒体视野。全球患者开始主动寻求医疗干预，临床需求爆发。
+## 1954
 
-## 1953
+本杰明发表关于易性症与异装症的临床论文，主张对持续、稳定的性别不一致者，身体治疗可能是缓解痛苦的必要手段，而非一味心理矫正。
 
-哈里·本杰明首次提出「真正的易性症患者不应被强制心理矫正，而应通过身体治疗缓解痛苦。」
+确立以身体治疗缓解痛苦的方向，也留下真易性症的排除门槛。[^15][^16]
 
-现代跨性别医疗哲学开始形成。
+## 1956
 
-## 1957
+法国妇科医师乔治·布鲁（Georges Burou）在摩洛哥卡萨布兰卡独立发展带蒂阴茎皮瓣翻转阴道成形术，并在此后数十年为来自世界各地的跨性别女性实施八百余例手术。
 
-美国G.D. Searle公司的研究团队首次合成螺内酯（Spironolactone）。
+确立阴茎皮瓣阴道成形术的经典原型。[^19]
 
-最初作为保钾利尿剂使用，后于1969年中正式描述其具有抗雄激素活性，成为第一代类固醇抗雄激素药物。
+## 1960—1962
 
-世界应用最广泛的跨性别女性抗雄激素药物之一。
+所罗门·贝尔森（Solomon Berson）与罗莎琳·亚洛（Rosalyn Yalow）建立放射免疫分析（Radioimmunoassay, RIA），使血液中微量激素的定量检测成为可能。
 
-## 1961
-
-鲁道夫·维歇特在德国柏林先灵公司实验室首次成功合成醋酸环丙孕酮（Cyproterone Acetate, CPA）。
-
-后发现其具有强效抗雄激素与孕激素活性，成为重要抗雄药物。
-
-## 1962
-
-罗莎琳·亚洛与所罗门·贝尔森提出并完善放射免疫分析（RIA）。
-
-第一次实现高灵敏度检测性激素水平，进入临床应用。
-
-## 1965
-
-约翰·F·奥利文在1965年著作《性卫生与病理学》中首次使用跨性别现象（Transgenderism）一词。
+激素治疗进入可定量监测时代。[^20][^21]
 
 ## 1966
 
-哈里·本杰明《变性现象》出版。
+哈里·本杰明出版《易性现象》（The Transsexual Phenomenon），系统总结其临床经验，并提出跨性别医疗的多学科协作框架。
 
-## 1966
+1960年代中期，美国约翰斯·霍普金斯医院等大学医疗机构先后开设性别认同门诊，提供精神科评估、激素与手术等综合服务；霍普金斯门诊通常记为1966年开放。
 
-约翰霍普金斯大学成立全美首个性别认同门诊。
+性别肯定医疗进入大学医院与多学科体系。[^15][^22]
 
-现代大学规范化跨性别医疗正式落地。
+### 1966
+
+先灵公司（Schering AG）的维歇特（Wiechert）合成醋酸环丙孕酮（Cyproterone Acetate，CPA）。该化合物随后被证实具有强效抗雄激素与孕激素活性。[^23]
+
+强效抗雄激素药物由此进入临床。[^23]
 
 ## 1967
 
-约翰·莫尼为证明性别可后天塑造，主导实验将手术事故导致阴茎损伤的戴维·赖默强制通过手术改造为女性。患者长期痛苦、成年后转回男性、最终自杀。
+约翰·莫尼（John Money）等人推动对因婴儿期阴茎损伤而被指派为女性的戴维·赖默（David Reimer）进行女性化手术与教养。赖默成年后恢复男性身份，2004年自杀。
 
-该案例严重削弱了「性别完全由后天塑造」的理论，并推动学界重新重视性别认同的生物学基础。
+推翻了「性别可完全由后天塑造」理论。[^24][^25]
 
 ## 1968
 
-罗伯特·斯托勒确立「核心性别认同」理论。
+罗伯特·斯托勒（Robert Stoller）提出“核心性别认同”概念，认为儿童早期会形成相对稳定的性别认同，不能简单等同于外生殖器或教养指派。
 
-提出儿童早期会形成相对稳定的核心性别认同，并非完全由后天习得。为儿童青少年跨性别诊疗提供核心理论支撑。
+核心性别认同成为临床评估基础。[^26]
 
-## 1970s
+## 1969
 
-言语病理学领域开始系统研究跨性别女性的语音共振峰与基频调节方法。
+斯蒂尔曼（Steelman）等研究描述螺内酯（Spironolactone）具有抗雄激素活性，使其在利尿用途之外进入性激素相关疾病研究。[^27]
 
-标志现代嗓音女性化训练的早期形成阶段。
-
-## 1971
-
-1971年，GnRH（促性腺激素释放激素）被沙利团队与吉耶曼团队同时发现。
-
-并于1972年进一步确认氨基酸序列。
-
-*安德鲁·V·沙利与罗杰·吉耶曼获1977年诺贝尔生理学或医学奖*
+抗雄激素治疗药物选择性增多。[^27]
 
 ## 1971
 
-彼得·佩尔曼与伊娃·恩格瓦尔发明酶联免疫吸附测定（ELISA）法。
+安德鲁·沙利（Andrew Schally）与罗杰·吉耶曼（Roger Guillemin）等分离并鉴定促性腺激素释放激素（Gonadotropin-releasing hormone, GnRH），随后推动其结构确定与类似物研发。
 
-RIA法逐渐被ELISA法替代，临床激素检测进入自动化时代。
+沙利与吉耶曼获1977年诺贝尔生理学或医学奖。
+
+可逆性青春期阻断成为可能。[^28][^21]
+
+## 1972
+
+GnRH 激动剂亮丙瑞林（Leuprolide）问世，并逐步发展出 1 至 6 个月缓释注射制剂。[^29]
+
+长效 GnRH 激动剂由此具备临床可用性。[^29]
+
+## 1972
+
+彼得·佩尔曼（Peter Perlmann）与伊娃·恩格瓦尔（Eva Engvall）建立酶联免疫吸附测定（Enzyme-linked immunosorbent assay, ELISA）。
+
+激素与抗体检测逐步走向非放射性、自动化和普及化。[^30]
 
 ## 1973
 
-诺曼·菲斯克在论文中首次使用GD（gender dysphoria，性别烦躁） 描述跨性别者的痛苦感受。
+诺曼·菲斯克（Norman Fisk）等使用“性别烦躁”（gender dysphoria，GD）描述性别不一致带来的痛苦，强调应治疗痛苦而非把跨性别身份本身视为全部问题。
 
-同年，同性恋从DSM中被移除，为后续性少数去病理化起推进作用；GnRH实现实验室合成。
+诊断重心从身份转向痛苦。[^31][^32]
 
 ## 1974
 
-研究发现5α还原酶缺乏症患者缺乏典型男性第二性征。
+唐纳德·劳布（Donald Laub）与诺曼·菲斯克等报道性别烦躁综合征的外科康复方案，推动性别肯定手术与术前术后多学科管理结合。
 
-首次明确双氢睾酮（DHT）在性发育中的关键作用。
-
-为后来的非那雄胺研发奠定理论基础。
+性别肯定手术进入康复医学框架。[^33]
 
 ## 1975
 
-曲普瑞林（Triptorelin）专利出现。
+世界卫生组织《国际疾病分类》第九版（ICD-9）将易性症（Transsexualism）纳入分类体系。
 
-最早一批GnRHa原型药物。
+跨性别诊断进入全球疾病分类，精神障碍标签同步巩固。[^32]
 
 ## 1979
 
-哈利本杰明国际性别焦虑症协会（HBIGDA）成立。
+哈里·本杰明国际性别烦躁协会（Harry Benjamin International Gender Dysphoria Association, HBIGDA）成立，并发布第一版《性别烦躁者激素与外科性别重置照护标准》（Standards of Care, SOC）。
 
-发布第一版《跨性别护理标准》（SOC1）。
-
-确立“守门人制度”，患者必须精神科评估通过方可进行激素与手术。
-
-## 1980s
-
-化学发光免疫分析（CLIA）法逐渐成熟。
-
-后成为主流检测技术之一，在今天仍然被用于性激素的临床快速检测，
+首次建立跨国共识，也确立长期守门模式。[^35]
 
 ## 1980
 
-美国 DSM-III 正式收录“性别认同障碍GID”。
+美国精神医学学会在《精神障碍诊断与统计手册》第三版（DSM-III）中收录“性别认同障碍”（Gender Identity Disorder, GID）。
 
-对后续国际精神医学诊断体系产生重要影响。
+部分患者获得制度入口，跨性别身份同时写入精神障碍。[^36][^37]
 
-## 1980、1981
+## 1980—1981
 
-SOC2、SOC3发布。
+HBIGDA发布SOC第2版与第3版，基本延续精神科评估、真实生活体验与手术前心理治疗要求。
 
-## 1980s末
-
-比卡鲁胺（Bicalutamide）开发启动。
-
-新一代非甾体抗雄药开始进入研发阶段。
+守门人模式被固定。[^35]
 
 ## 1983
 
-唐纳德·R·布朗发表跨性别女性发声研究。
+北京大学第三医院完成中国大陆较早的有记载的性别重置手术之一。精神科医师杨华渝参与诊断，整形外科医师王大玫主刀，跨性别女性张克莎接受手术。
 
-## 1983前后
+中国大陆性别肯定手术留下早期临床先例。[^38][^39]
 
-默克公司确认MK-906是高选择性5α-还原酶抑制剂。
+## 2002.9
 
-非那雄胺（Finasteride）诞生。
+公安部三局批复同意，公民实施变性手术后，凭国家指定医院出具的成功手术证明，经县市公安机关审核可办理户口性别项目变更，并重新编制公民身份号码。
 
-## 1983
+中国大陆性别变更获得行政办理路径。[^40]
 
-北京大学第三医院完成中国大陆首例非公开的最早有明确文献记载的性别重置手术。
+## 2006
 
-中国首位跨性别精神评估专家杨华渝教授进行精神诊断。手术由中国整形外科奠基人王大玫教授主刀。跨性别女性张克莎接受手术。
+亨丽埃特·德勒马雷-范德瓦尔（Henriette Delemarre-van de Waal）与佩姬·科恩-凯特尼斯（Peggy Cohen-Kettenis）发表青少年性别认同障碍的心理学与儿科内分泌学联合方案，系统提出青春期阻断、后续激素与手术的分阶段路径。
 
-手术时长12小时，术后恢复良好。
+同年，谢拉·戴维斯（Shelagh Davies）与约书亚·戈德堡（Joshua Goldberg）发表跨性别语音女性化与男性化的临床综述，系统讨论评估、治疗与结果评价。
 
-标志中国正式进入现代跨性别医疗时代。
-
-## 1985
-
-亮丙瑞林上市。
-
-GnRH激动剂正式进入临床应用。
-
-青春期阻滞治疗成为可能。
-
-## 1987
-
-英国帝国化学工业药物研发团队合成并确认了代号为 ICI 176,334 的化合物。
-
-后被命名为比卡鲁胺（Bicalutamide）。
-
-标志着第二代非甾体抗雄激素药物的起点。
-
-## 1988
-
-唐纳德·R·布朗发表《跨性别者的声音》。
-
-跨性别语训正式成为独立研究方向。
-
-## 1989
-
-非那雄胺研发成功。
-
-后来进入部分跨性别女性辅助治疗方案。
-
-## 1990s
-
-荷兰阿姆斯特丹团队逐步建立后来被称为「荷兰议定书（The Dutch Protocol）」的青少年跨性别医疗模式。
-
-首创青春期阻滞剂分阶段干预方案，避免不可逆躯体发育带来的终身性别焦虑。
-
-成为全球影响最深远的青少年跨性别医疗范式。
-
-## 1990
-
-上海长征医院完成中国大陆首例公开报道的性别重置手术。
-
-手术由何清濂教授主刀。受术对象是跨性别女性。
-
-## 1990、1998
-
-SOC4、SOC5发布。
-
-## 1999
-
-Wendler改良声带缩短术。
-
-成为今天全球最常见的跨性别女性声音手术。
-
-## 2000s
-
-雌二醇贴剂、凝胶、长效注射剂等多种剂型逐渐普及。
-
-液相色谱-串联质谱（LC–MS/MS）法逐渐成熟，成为性激素检测金标准。
-
-## 2000-2008
-
-中国互联网普及，跨性别社群成型，大量患者自发寻求激素、手术。但全国无统一规范、无专科门诊、无内分泌标准化方案。
-
-网购激素、自行用药、地下诊所手术泛滥，严重肝肾损伤、血栓、手术致残案例高发。
-
-中国跨性别医疗需求显著增长。
-
-## 2001
-
-《中国精神障碍分类与诊断标准》第三版（CCMD-3）。
-
-继续保留“易性症”诊断类别。
-
-长期影响中国精神医学实践。
-
-同年，SOC6发布。
+显著扩展青春期阻断与语音训练等非手术干预路径。[^41][^42]
 
 ## 2007
 
-哈利本杰明国际性别焦虑症协会（HBIGDA）更名世界跨性别健康专业协会（WPATH）。
+哈里·本杰明国际性别烦躁协会（HBIGDA）更名世界跨性别健康专业协会（WPATH）。
 
-标志组织从“易性症模式”向“跨性别健康模式”转型。
+## 2008.10
 
-## 2008
+公安部治安管理局进一步规定，申请变更户口性别项目者应提供国内三级医院出具的性别鉴定证明和公证书，或司法鉴定部门证明，经地市级公安机关核准后办理。
 
-阿德勒·赫希发表长期随访研究。
-
-语音训练可显著提高女性化识别率。
-
-语训进入循证医学阶段。
-
-## 2008
-
-公安部治安管理局做出《关于公民手术变性后变更户口登记性别项目有关问题的批复》。
-
-提供“国内三级医院出具的性别鉴定证明和公证部门出具的公证书，或司法鉴定部门出具的证明”可修改户口登记性别项目，性别项目变更后，应重新编制公民身份号码。
-
-相当于在整个中国大陆地区明确允许在境外接受手术后可回国修改户籍性别。
+证明要求统一，公证与鉴定门槛提高。[^43]
 
 ## 2009
 
-原卫生部颁布《变性手术技术管理规范》（试行）。
+美国内分泌学会发布《易性症内分泌治疗临床实践指南》，系统规范成人与青少年的激素评估、剂量、监测与风险沟通。
 
-做出年满20周岁、确诊易性症、1年以上心理干预、无犯罪记录等的的硬性准入要求。
+激素治疗获得主流内分泌专业指南。[^44]
 
-将性别重置手术纳入国家限制类医疗技术。
+## 2009.11
 
-## 2011
+原卫生部发布《变性手术技术管理规范（试行）》，对开展机构、手术医师、术前材料与伦理审查提出最低要求。
 
-SOC7发布。
+中国大陆性别重置手术进入国家级规范管理。[^45]
 
-大幅放宽限制，缩短强制心理治疗时长、承认多元性别、明确支持在严格评估下开展未成年人阶梯式干预。
+## 2012
 
-首次系统规范跨性别激素治疗流程、监测指标及青少年激素干预原则。
+WPATH发布SOC第7版，将标题改为《变性者、跨性别者与性别非常规者健康照护标准》，纳入儿童、青少年、成人、激素、手术、生殖与心理健康等章节，并首次系统纳入语音与沟通治疗。
 
-GAHT进入循证医学时代。
+语音与沟通治疗正式进入国际标准。[^46]
 
-## 2013
+## 2013.5
 
-DSM-5 修订，删除“性别认同障碍”，改为“性别焦虑”。
+美国精神医学学会在DSM-5中以“性别烦躁”（Gender Dysphoria，GD）取代“性别认同障碍”，将诊断核心转向性别不一致所致的临床显著痛苦或功能受损。
 
-「历史性去污名。」
+跨性别身份在DSM中走向去病理化。[^47][^36]
 
 ## 2016
 
-北医三院潘柏林教授成立国内首个跨性别MDT多学科门诊。
-
-中国跨性别医疗正式进入专科化时代。
+潘柏林在北京大学第三医院创建国内第一支跨性别序列医疗团队，整合心理咨询科、内分泌科、生殖医学、耳鼻喉科、普通外科与整形外科等资源，开设易性症综合门诊，提供心理支持、家庭宣教、激素替代、性别重置手术与气质塑造等序列诊疗。[^50][^51]
 
 ## 2017
 
-国家卫健委颁布《性别重置技术管理规范（2017年版）》。
+美国内分泌学会更新《性别烦躁/性别不一致者内分泌治疗临床实践指南》，进一步细化青春期抑制、激素治疗与监测建议。
 
-“易性癖病诊断证明”改成“易性病诊断证明”。“变性手术”的表述改为“性别重置手术”。
+激素治疗监测进一步标准化。[^48]
 
-## 2017
+## 2017.2
 
-北京同志中心与北京大学社会学系联合发布《2017中国跨性别群体生存现状调查报告》。
+原国家卫生计生委发布《性别重置技术管理规范（2017年版）》，将“变性手术”改称“性别重置技术”。
 
-中国首个具有全国代表性的、专门针对跨性别群体的生存现状调查。
+术语与管理框架更系统，严格筛选保留。[^49]
 
-## 2018
+## 2018.6
 
-ICD-11中将“性别不一致”从精神障碍章节移入性健康相关章节。
+世界卫生组织发布《国际疾病分类》第11版（ICD-11），将“性别不一致”（Gender Incongruence）从精神与行为障碍章节移入性健康相关章节。
 
-2019正式通过，2022正式生效。
+跨性别诊断在全球分类中走向去病理化。[^52][^53]
 
-「跨性别身份不是精神病。」
+## 2020.11
 
-## 2020
+国家卫生健康委发布《精神障碍诊疗规范（2020年版）》，在“性身份障碍”章节纳入易性症、双重异装症和童年性身份障碍，并提出激素、外科手术、家庭支持、个体心理治疗、演讲与举止训练等综合治疗。
 
-国家卫生健康委发布《精神障碍诊疗规范（2020 年版）》。
+激素、手术与语音训练写入官方诊疗文本，病理化分类延续。[^54]
 
-规定“激素治疗、外科手术治疗（变性手术）”等方式是易性症的治疗方式。易性症的诊断要求转换性别身份至少持续存在2年以上。
+## 2021.10
+
+公安部《户口居民身份证管理工作规范（试行）》施行，规定公民申请变更性别可凭国内三级医院性别鉴定证明，或具备资格的司法鉴定机构证明办理。
+
+性别变更登记路径更清晰，地区差异未消除。[^55]
 
 ## 2021
 
-公安部颁布《户口居民身份证管理工作规范（试行）》。
+林叶喆等发表中国跨性别与性别非常规人群心理健康系统综述，系统梳理中国大陆相关研究与医疗需求。[^56]
 
-规定“本人或者监护人应当凭国内三级医院出具的性别鉴定证明，或者具备资格的司法鉴定机构出具的证明，向户口所在地公安派出所申请”可变更性别。
+中国大陆跨性别心理健康证据首次形成系统综述。[^56]
 
-相当于取消了此前全国性规定的“性别鉴定证明的公证书”的要求。
+## 2021.11
 
-## 2022
+复旦大学附属儿科医院开设中国首个跨性别儿童与青少年多学科门诊，整合心理、内分泌与泌尿等科室。[^57]
 
-SOC8发布。
-
-新增语音治疗、面部性别重塑、非手术干预、跨性别生育保留、不同国家医疗适配方案。细化未成年人分层评估，杜绝过度医疗。
+中国大陆跨性别青少年医疗首次形成专门门诊。[^57]
 
 ## 2022
 
-《中国易性症多学科诊疗专家共识》发布。
+《中国易性症多学科诊疗专家共识》发布，为中国大陆易性症的评估、诊断与多学科诊疗提供临床参考。[^58]
 
-由全国数十家三甲医院联合制定。
+中国大陆易性症诊疗首次形成全国性多学科共识框架。[^58]
 
-统一诊断标准、双复诊制度、激素用药剂量、监测周期、禁忌症、青少年干预原则、手术指征、术后随访等。
-
-结束国内诊疗无统一标准的乱象。
-
-## 2022
+## 2022.4
 
 国家卫生健康委发布《性别重置技术临床应用管理规范（2022年版）》。
 
-“易性病诊断证明”表述改为“易性症（性别焦虑，或性别不一致）诊断证明”。
+年龄门槛下调，全过程管理强化，多重制度门槛保留。[^59]
 
-取消手术书面申请的公证要求。最低年龄要求从20岁下调到18岁。取消了“术前接受心理、精神治疗 1 年以上且无效”的要求。
+## 2022.9
 
-## 2023-现在
+WPATH发布SOC第8版，扩大对成人、青少年、儿童、非二元、间性及院舍人群的覆盖，强调个体化评估、知情同意、减少不必要门槛，并明确反对旨在改变性别认同的“矫正/转换治疗”。
 
-北医三院、暨南大学附一、上海瑞金、华西医院等陆续开设MDT门诊。
+性别肯定医疗转向患者中心与知情同意。[^60]
 
-中国跨性别医疗开始向内分泌、精神心理、整形外科、妇科、泌尿外科、语音治疗等多学科协作模式发展。
+## 2023.7
+
+国家药监局综合司复函明确，含雌二醇片的复方包装属于药品网络销售禁止清单范围，相关网络零售行为应整改。
+
+部分雌二醇制剂网售受限。[^61]
+
+## 2025
+
+王冠慧、潘柏林等发表中国跨性别女性生殖器性别肯定手术病例系列，总结术式经验与结局评价。[^62]
+
+中国跨性别女性生殖器手术的本土经验进入同行评议文献。[^62]
+
+---
+
+## 参考文献
+
+[^1]: Freud, S. *Three Essays on the Theory of Sexuality*. Leipzig: Deuticke, 1905.
+[^2]: Hirschfeld, M. *Die Transvestiten*. Berlin: Alfred Pulvermacher, 1910.
+[^3]: Hill, D. B. “Sexuality and Gender in Hirschfeld's Die Transvestiten.” *Journal of the History of Sexuality*, 2005. https://doi.org/10.1353/sex.2006.0023
+[^4]: Magnus Hirschfeld Society. “The Institute for Sexual Science.” https://magnus-hirschfeld.de/
+[^5]: Allen, E., & Doisy, E. A. “An Ovarian Hormone.” *JAMA*, 1923. https://doi.org/10.1001/jama.1923.02650100027012
+[^6]: Santen, R. J., & Simpson, E. “History of Estrogen: Its Purification, Structure, Synthesis, Biologic Actions, and Clinical Implications.” *Endocrinology*, 2019. https://doi.org/10.1210/en.2018-00529
+[^7]: Worthen, M. “Lili Elbe.” *Making Gay History*, 2019. https://makinggayhistory.org/
+[^8]: Elbe, L., & Hoyer, N. *Man into Woman: An Authentic Record of a Change of Sex*. Jarrolds, 1933.
+[^9]: Holocaust Memorial Day Trust. “Looting of the Institute of Sexology.” 1933. https://www.hmd.org.uk/
+[^10]: Nieschlag, E., & Nieschlag, S. “The History of Discovery, Synthesis and Development of Testosterone for Clinical Use.” *European Journal of Endocrinology*, 2019. https://doi.org/10.1530/eje-19-0071
+[^11]: Nobel Prize. “The Nobel Prize in Chemistry 1939.” https://www.nobelprize.org/prizes/chemistry/1939/summary/
+[^12]: Watkins, E. S. *The Estrogen Elixir: A History of Hormone Replacement Therapy in America*. Johns Hopkins University Press, 2007.
+[^13]: Taylor, C. L. “Dillon, (Laurence) Michael (1915–1962), Transsexual and Buddhist Monk.” *Oxford Dictionary of National Biography*, 2004. https://doi.org/10.1093/ref:odnb/76743
+[^14]: Nair, R., & Sriprasad, S. “Sir Harold Gillies: Pioneer of Phalloplasty and the Birth of Urologic Surgery.” *Journal of Urology*, 2010. https://doi.org/10.1016/j.juro.2010.02.2326
+[^15]: Benjamin, H. *The Transsexual Phenomenon*. New York: Julian Press, 1966.
+[^16]: Ekins, R. “Science, Politics and Clinical Intervention: Harry Benjamin, Transsexualism and the Problem of Heteronormativity.” *Sexualities*, 2005. https://doi.org/10.1177/1363460705049578
+[^17]: Docter, R. F. *Becoming a Woman: A Biography of Christine Jorgensen*. Routledge, 2013.
+[^18]: Jorgensen, C. *Christine Jorgensen: A Personal Autobiography*. Bantam Books, 1967.
+[^19]: Hage, J. J., Karim, R. B., & Laub, D. R. “On the Origin of Pedicled Skin Inversion Vaginoplasty.” *Annals of Plastic Surgery*, 2007. https://doi.org/10.1097/01.sap.0000258974.41516.bc
+[^20]: Yalow, R. S., & Berson, S. A. “Immunoassay of Endogenous Plasma Insulin in Man.” *Journal of Clinical Investigation*, 1960. https://doi.org/10.1172/jci104130
+[^21]: Nobel Prize. “The Nobel Prize in Physiology or Medicine 1977.” https://www.nobelprize.org/prizes/medicine/1977/summary/
+[^22]: Byne, W. et al. “Gender Dysphoria in Adults: An Overview and Primer for Psychiatrists.” *Transgender Health*, 2018. https://doi.org/10.1089/trgh.2017.0053
+[^23]: Neumann, F. “The Antiandrogen Cyproterone Acetate: Discovery, Chemistry, Basic Pharmacology, Clinical Use and Tool in Basic Research.” *Experimental and Clinical Endocrinology & Diabetes*, 2009. https://doi.org/10.1055/s-0029-1211261
+[^24]: Colapinto, J. *As Nature Made Him: The Boy Who Was Raised as a Girl*. HarperCollins, 2000.
+[^25]: Diamond, M., & Sigmundson, H. K. “Sex Reassignment at Birth: Long-term Review and Clinical Implications.” *Archives of Pediatrics & Adolescent Medicine*, 1997. https://doi.org/10.1001/archpedi.1997.02170400084015
+[^26]: Stoller, R. J. *Sex and Gender: On the Development of Masculinity and Femininity*. Science House, 1968.
+[^27]: Steelman, S. L. et al. “Anti-androgenic Activity of Spironolactone.” *Steroids*, 1969. https://doi.org/10.1016/S0039-128X(69)80007-3
+[^28]: Schally, A. V. et al. “Gonadotropin-Releasing Hormone: One Polypeptide Regulates Secretion of Luteinizing and Follicle-Stimulating Hormones.” *Science*, 1971. https://doi.org/10.1126/science.173.4001.1036
+[^29]: Chwalisz, K. “Clinical Development of the GnRH Agonist Leuprolide Acetate Depot.” *F&S Reports*, 2023. https://doi.org/10.1016/j.xfre.2022.11.011
+[^30]: Engvall, E., & Perlmann, P. “Enzyme-Linked Immunosorbent Assay (ELISA) Quantitative Assay of Immunoglobulin G.” *Immunochemistry*, 1971. https://doi.org/10.1016/0019-2791(71)90454-X
+[^31]: Fisk, N. M. “Gender Dysphoria Syndrome.” In *Proceedings of the Second Interdisciplinary Symposium on Gender Dysphoria Syndrome*, 1973.
+[^32]: Beek, T. F., Cohen-Kettenis, P. T., & Kreukels, B. P. C. “Gender Incongruence/Gender Dysphoria and Its Classification History.” *International Review of Psychiatry*, 2016. https://doi.org/10.3109/09540261.2015.1091293
+[^33]: Laub, D. R., & Fisk, N. M. “A Rehabilitation Program for Gender Dysphoria Syndrome by Surgical Sex Change.” *Plastic and Reconstructive Surgery*, 1974. https://doi.org/10.1097/00006534-197404000-00003
+[^34]: Messina, M. et al. “Spironolactone as an Antiandrogen in the Therapy of Female Hirsutism.” *Journal of Steroid Biochemistry*, 1979. https://doi.org/10.1016/0022-4731(79)90426-6
+[^35]: WPATH. “History of the Association.” https://www.wpath.org/about/history
+[^36]: Drescher, J. “Queer Diagnoses: Parallels and Contrasts in the History of Homosexuality, Gender Variance, and the Diagnostic and Statistical Manual.” *Archives of Sexual Behavior*, 2010. https://doi.org/10.1007/s10508-009-9531-5
+[^37]: American Psychiatric Association. *Diagnostic and Statistical Manual of Mental Disorders*, 3rd ed. Washington, DC: APA, 1980.
+[^38]: 张克莎. 《女人梦：中国变性第一人自述》. 海南出版社, 2003.
+[^39]: 北京大学第三医院官方网站. https://www.puh3.net.cn/
+[^40]: 公安部三局. 《关于公民实施变性手术后变更户口登记性别项目有关问题的批复》（公治〔2002〕131号）, 2002-09-04.
+[^41]: Delemarre-van de Waal, H. A., & Cohen-Kettenis, P. T. “Clinical Management of Gender Identity Disorder in Adolescents.” *European Journal of Endocrinology*, 2006. https://doi.org/10.1530/eje.1.02231
+[^42]: Davies, S., & Goldberg, J. M. “Clinical Aspects of Transgender Speech Feminization and Masculinization.” *International Journal of Transgenderism*, 2006. https://doi.org/10.1300/j485v09n03_08
+[^43]: 公安部治安管理局. 《关于公民手术变性后变更户口登记性别项目有关问题的批复》（公治〔2008〕478号）, 2008-10-23.
+[^44]: Hembree, W. C. et al. “Endocrine Treatment of Transsexual Persons: An Endocrine Society Clinical Practice Guideline.” *Journal of Clinical Endocrinology & Metabolism*, 2009. https://doi.org/10.1210/jc.2009-0345
+[^45]: 原卫生部. 《变性手术技术管理规范（试行）》（卫办医政发〔2009〕185号）, 2009-11-13.
+[^46]: Coleman, E. et al. *Standards of Care for the Health of Transsexual, Transgender, and Gender Nonconforming People*, 7th Version. WPATH, 2012. https://www.wpath.org/publications/soc
+[^47]: American Psychiatric Association. *Diagnostic and Statistical Manual of Mental Disorders*, 5th ed. Arlington: APA, 2013. https://doi.org/10.1176/appi.books.9780890425596
+[^48]: Hembree, W. C. et al. “Endocrine Treatment of Gender-Dysphoric/Gender-Incongruent Persons.” *Journal of Clinical Endocrinology & Metabolism*, 2017. https://doi.org/10.1210/jc.2017-01658
+[^49]: 原国家卫生计生委. 《性别重置技术管理规范（2017年版）》（国卫办医发〔2017〕9号）, 2017-02-17.
+[^50]: Liu, Y., Xin, Y., Qi, J., Wang, H., Hong, T., Yang, X., Li, B., Chang, X., Knudson, G., Zhao, Z., & Pan, B. “The Desire and Status of Gender-Affirming Hormone Therapy and Surgery in Transgender Men and Women in China: A National Population Study.” *The Journal of Sexual Medicine*, 2020. 作者单位标注为“Transgender Clinic, Peking University Third Hospital”。 https://doi.org/10.1016/j.jsxm.2020.07.081
+[^51]: Pan, B. et al. “The Desire and Status of Gender-Affirming Hormone Therapy and Surgery in Transgender Men and Women in China: A National Population Study.” *The Journal of Sexual Medicine*, 2020. https://doi.org/10.1016/j.jsxm.2020.07.081；Pan, B. et al. “The Mental Health of Transgender and Gender Non-Conforming People in China: A Systematic Review.” *The Lancet Public Health*, 2021. https://doi.org/10.1016/S2468-2667(21)00236-X
+[^52]: World Health Organization. *International Classification of Diseases, 11th Revision*. Geneva: WHO, 2018. https://icd.who.int/
+[^53]: World Health Organization. “Gender Incongruence.” ICD-11. https://icd.who.int/browse11/l-m/en
+[^54]: 国家卫生健康委. 《精神障碍诊疗规范（2020年版）》, 2020-11-23.
+[^55]: 公安部. 《户口居民身份证管理工作规范（试行）》（公通字〔2021〕12号）, 2021-07-24.
+[^56]: Lin, Y. et al. “The Mental Health of Transgender and Gender Non-Conforming People in China: A Systematic Review.” *The Lancet Public Health*, 2021. https://doi.org/10.1016/S2468-2667(21)00236-X
+[^57]: Global Times. “China’s First Clinic for Transgender Children and Adolescents Set Up in Shanghai.” 2021-11-04. https://www.globaltimes.cn/page/202111/1238161.shtml
+[^58]: 《中国易性症多学科诊疗专家共识》. 2022. 相关条目见中国大陆跨性别医疗政策与临床资料汇编.
+[^59]: 国家卫生健康委. 《性别重置技术临床应用管理规范（2022年版）》, 2022-04-20.
+[^60]: Coleman, E. et al. “Standards of Care for the Health of Transgender and Gender Diverse People, Version 8.” *International Journal of Transgender Health*, 2022. https://doi.org/10.1080/26895269.2022.2100644
+[^61]: 国家药监局综合司. 《关于〈药品网络销售禁止清单（第一版）〉有关问题的复函》（药监综药管函〔2023〕368号）, 2023-07-06.
+[^62]: Wang, G., Pan, B. et al. “Surgical Experience and Outcome Evaluation of Genital Gender Affirmation Surgery for Transgender Female in China: A Case Series.” *Aesthetic Plastic Surgery*, 2025. https://doi.org/10.1007/s00266-024-04628-4
+
